@@ -6,8 +6,9 @@ I'm Hared Albancando Robles, a student at Brigham Young University-Idaho interes
 
 ## About Me
 
-- I'm currently learning Web Development (HTML, CSS, JS, and JSON)
+- I'm currently learning Web Development (HTML, CSS, JS, and JSON) I am a Software Engineering student and Professional Business Management graduate from Ensign College with 6 years of experience in tech support, customer service and sales (phone, email, and face-to-face). I am searching for opportunities to use and expand my skills.
 
+Languages: Portuguese (100%) Spanish (Native)
 
 ## Technologies and Tools
 
