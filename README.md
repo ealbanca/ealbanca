@@ -12,8 +12,8 @@ Languages: Portuguese (100%) Spanish (Native)
 
 ## Technologies and Tools
 
-- Proficient in: HTML, Python
-- Skills: <Any Other Skills or Tools You Want to Highlight>
+- Proficient in: HTML, CSS, JS, Python
+- Skills: GitHub basis, ServiceNow, GenesysCloud, Microsoft, Visual Studio Code
 
 ## Let's Connect!
 
